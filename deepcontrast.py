@@ -1,3 +1,9 @@
+# Inspired by:
+# Work of Simon Thomas Karlsson https://github.com/simontomaskarlsson/CycleGAN-Keras
+# Fabian Isensee (2017)
+# many others
+
+
 import tensorflow as tf
 tf.compat.v1.disable_eager_execution()
 gpus = tf.config.experimental.list_physical_devices('GPU') 
