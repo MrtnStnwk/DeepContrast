@@ -1,5 +1,5 @@
-# Inspired by:
-# Work of Simon Thomas Karlsson https://github.com/simontomaskarlsson/CycleGAN-Keras
+# Inspired by / code reused from:
+# Simon Thomas Karlsson https://github.com/simontomaskarlsson/CycleGAN-Keras
 # Fabian Isensee (2017)
 # many others
 
