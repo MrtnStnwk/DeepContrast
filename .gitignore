@@ -1,0 +1,6 @@
+data
+images
+niis
+_pycache_
+.DS_Store
+*.pyc
